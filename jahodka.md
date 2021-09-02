@@ -1,4 +1,4 @@
-# toto je test subor mandarinka
+# toto je test subor jahoda
 
 Jahodka je:
 
