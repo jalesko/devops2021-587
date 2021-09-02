@@ -1,11 +1,11 @@
-# toto je test subor jahodky
+# toto je test subor pomaranca
 
 Jahodka je:
 
-* jahody su super
-* **chutna**
-* **teeeeest2**
-* test3
-* sladka
+* jahody NIE su super
+* **chutna** NIE
+* **teeeeest2NIE**
+* test3 NIE
+* sladka NIE
 
 test
