@@ -12,6 +12,4 @@ First training GIT
 * piaty
 * siesty
 * siedmy
-* osmy
-* deviaty
-* desiaty
+
