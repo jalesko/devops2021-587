@@ -4,14 +4,14 @@
 
 First training GIT
 
-test
-prvy
-druhy
-treti
-stvrty
-piaty
-siesty
-siedmy
-osmy
-deviaty
-desiaty
+* test
+* prvy
+* druhy
+* treti
+* stvrty
+* piaty
+* siesty
+* siedmy
+* osmy
+* deviaty
+* desiaty
