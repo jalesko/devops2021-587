@@ -2,10 +2,10 @@
 
 Jahodka je:
 
-* jahody NIE su super
+* jahody su super
 * **chutna** NIE
 * **teeeeest2NIE**
-* test3 NIE
-* sladka NIE
+* test3 
+* sladkaaaaa 
 
 test
