@@ -4,8 +4,8 @@ Jahodka je:
 
 * jahody su super
 * **chutna**
-* teeeeest2
-* test
+* **teeeeest2**
+* test3
 * sladka
 
 test
