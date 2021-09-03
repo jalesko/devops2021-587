@@ -13,3 +13,6 @@ First training GIT
 * siesty
 * siedmy
 
+test
+training
+
