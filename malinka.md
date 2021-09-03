@@ -1,4 +1,4 @@
-# toto je test subor Malinka
+# toto je test subor citron
 
 Malinka je:
 
@@ -6,6 +6,3 @@ Malinka je:
 * **chutna**
 * cervena
 * sladka
-
-test
-test2
